@@ -1,0 +1,50 @@
+p{
+	margin:0;
+	padding:0;
+}
+body,
+html{
+	background-color: rgba(34,4,24,1);
+}
+
+.flex_right{
+	display: flex;
+	justify-content: flex-end;
+}
+.nav_bar .glyphicon{
+	color:white;
+}
+
+.morado{
+	background-color: mediumorchid;
+	height:20vh;
+}
+.blue{
+	background-color: blue;
+}
+.green{
+	background-color: green;
+}
+.flex-container{
+	display: flex;
+	align-items: center;
+}
+.numberExpense{
+	color: red;
+}
+.hora{
+	font-size: 10px;
+}
+.title{
+	color:white;
+
+}
+.description{
+	color:gray;
+}
+.day{
+	color: white;
+}
+.gray{
+	color:gray;
+}
